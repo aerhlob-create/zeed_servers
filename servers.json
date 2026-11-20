@@ -1,7 +1,7 @@
 {
-  "min_version": "0.3.0",
+  "min_version": "0.3.5",
   "message": "",
   "servers": [
-    { "name": "Zeed #1 · EU", "address": "1.2.3.4", "port": 27015, "map": "Вайп раз в 6 дней · PVP" }
+    { "name": "Zeed #1 · EU", "address": "20.218.136.20", "port": 27015, "map": "Вайп раз в 6 дней · PVP" }
   ]
 }
